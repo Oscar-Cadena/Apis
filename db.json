@@ -126,7 +126,7 @@
                 "Fraccion_arancelaria": "87032201 ",
                 "Descripcion_documento": "\n        \n  \n  \n      \n      \n          INTRODUCCION A DEPOSITO FISCAL (IA).  \n  \n  \n  \n  \n  \n  \n  \n"
             },
-//Pendiente            "Mensajes_pedimento": "1"
+            "Mensajes_pedimento": "1"
         },
         "OCRA": {
             "Acta_de_robo": "NULL",
